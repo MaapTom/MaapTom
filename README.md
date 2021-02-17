@@ -8,7 +8,7 @@ Entrei em contato com como tecnologias de desenvolvimento Web em 2018. Fiquei mu
 JavaScript, HTML e CSS
 
 ## 🌱 No momento estou buscando aprender
-Node JS e IONIC
+Node JS, IONIC, React JS e Vue JS
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
 [E-mail](marcoantoniopereira41@gmail.com), [Linkedin](linkedin.com/in/marco-antonio-ab61391a2)
