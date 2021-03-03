@@ -11,7 +11,7 @@ JavaScript, HTML e CSS
 Node JS, IONIC, React JS e Vue JS
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
-[E-mail](marcoantoniopereira41@gmail.com), [Linkedin](linkedin.com/in/marco-antonio-ab61391a2)
+[E-mail](marcoantoniopereira41@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonio-ab61391a2/)
 
 <!--
 **MaapTom/MaapTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
