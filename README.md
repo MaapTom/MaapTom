@@ -11,7 +11,7 @@ JavaScript, HTML e CSS
 Node, PHP e MySQL
 
 ## 🌱 No momento estou buscando aprender
-Vue JS e IONIC
+Vue JS e React Native
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
 [E-mail](marcoantoniopereira41@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonio-ab61391a2/)
