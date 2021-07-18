@@ -5,12 +5,12 @@ Entrei em contato com como tecnologias de desenvolvimento Web em 2018. Fiquei mu
 
 
 ### 👯 Principais conhecimentos
-JavaScript, HTML e CSS
+JavaScript, Vue JS, HTML e CSS
 
 ### 👯 Conhecimentos básicos
 Node, PHP e MySQL
 
-## 🌱 No momento estou buscando aprender
+## 🌱 No momento estou estudano
 Vue JS e React Native
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
