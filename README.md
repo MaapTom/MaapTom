@@ -8,7 +8,7 @@ Entrei em contato com como tecnologias de desenvolvimento Web em 2018. Fiquei mu
 JavaScript, Vue JS, HTML e CSS
 
 ### 👯 Conhecimentos básicos
-Node, PHP e MySQL
+Node, PHP, Prisma ORM e MySQL
 
 ## 🌱 No momento estou estudano
 Vue JS e React Native
