@@ -7,14 +7,11 @@ Entrei em contato com como tecnologias de desenvolvimento Web em 2018. Fiquei mu
 ### 👯 Principais conhecimentos
 JavaScript, Vue JS, HTML e CSS
 
-### 👯 Conhecimentos básicos
-Node, PHP, Prisma ORM e MySQL
-
 ## 🌱 No momento estou estudano
-Vue JS e React Native
+Vue JS
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
-[E-mail](marcoantoniopereira41@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonio-ab61391a2/)
+[E-mail](maaptom.contact@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonioio/)
 
 <!--
 **MaapTom/MaapTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
