@@ -11,7 +11,7 @@ JavaScript, Vue JS, HTML e CSS
 Vue JS
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
-[E-mail](maaptom.contact@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonioio/)
+[E-mail](maaptom.contact@gmail.com), [Linkedin](https://www.linkedin.com/in/marco-antonioio/), [Behance](https://www.behance.net/MarcoIO)
 
 <!--
 **MaapTom/MaapTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
