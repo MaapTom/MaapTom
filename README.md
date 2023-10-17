@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💬 Sobre
-Entrei em contato com como tecnologias de desenvolvimento Web em 2018. Fiquei muito interessado e desde então sempre busco aprender mais.
+Entrei em contato com tecnologias de desenvolvimento Web em 2018. Fiquei muito interessado e desde então sempre busco aprender mais.
 
 
 ### 👯 Principais conhecimentos
