@@ -1,14 +1,8 @@
 ### Hi there 👋
 
 ### 💬 Sobre
-Entrei em contato com tecnologias de desenvolvimento Web em 2018. Fiquei muito interessado e desde então sempre busco aprender mais.
+Entrei em contato com tecnologias de desenvolvimento Web em 2018. Fiquei muito interessado e desde então estou vagando na arte de programar.
 
-
-### 👯 Principais conhecimentos
-JavaScript, Vue JS, HTML e CSS
-
-## 🌱 No momento estou estudando
-Vue JS
 
 ## 📫 Gostaria de entrar em contato? Me encontre aqui
 [Linkedin](https://www.linkedin.com/in/marco-antonioio/), [Behance](https://www.behance.net/MarcoIO)
